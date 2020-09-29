@@ -168,5 +168,61 @@ export const data = [
         logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       },
     ],
+  },
+  {
+    id: 18,
+    nom_restau: "Messi repa",
+    latitude: 6.361075,
+    longitude: 2.434792,
+    distance: 6,
+    temps: 17,
+    detail: 'Fast food, Local', 
+    markerImag: 'https://c8.alamy.com/comp/WG2361/funny-chef-restaurant-or-cafe-logo-vector-illustration-WG2361.jpg',
+    logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    menu: [
+      {
+        nom_plat: "Pizza passes",
+        prix: "1000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        nom_plat: "Pizza maguérita",
+        prix: "2000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        nom_plat: "Chawarma",
+        prix: "2000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+  {
+    id: 19,
+    nom_restau: "Messi repa",
+    latitude: 6.360567, 
+    longitude:2.435064,
+    distance: 6,
+    temps: 17,
+    detail: 'Fast food, Local', 
+    markerImag: 'https://c8.alamy.com/comp/WG2361/funny-chef-restaurant-or-cafe-logo-vector-illustration-WG2361.jpg',
+    logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    menu: [
+      {
+        nom_plat: "Pizza passes",
+        prix: "1000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        nom_plat: "Pizza maguérita",
+        prix: "2000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        nom_plat: "Chawarma",
+        prix: "2000",
+        logo: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
   }
 ];
